@@ -1,0 +1,25 @@
+.gallery img{ width: 100%; } h1{ font-family: Impact, fantasy; text-align: center;
+font-size: 30px; color: pink; font-style: italic; } h3{ font-family: impact, fantasy;
+font-size: 20 px; font-style: italic; color: pink; } p{ font-family: helvetica,
+sans-serif; } #menu{ width: 100%; height: 50px; background-color: pink; padding-top:
+15px; } #menu a{ color: cornsilk; font-family: helvetica, sans-serif; font-size:
+20px; text-decoration: none; font-weight: 800; padding-left: 30px; padding-right:
+30px; } #menu a:hover{ color: #5077bd; } menu
+			<style>
+    body
+    			{font-family: sans-serif;
+    }
+    			table
+    			{width: 60%;
+    			border-collapse: collapse;
+    			background-color: pink;
+    }
+  </style>
+<!--
+Visual Code Mobile
+Developed By Manish Nirmal
+App Available on Play Store :-
+https://play.google.com/store/apps/details?id=lk.visual.code.mobile
+YouTube :-
+https://youtube.com/ManishNirmal
+-->
